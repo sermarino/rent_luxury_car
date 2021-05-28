@@ -1,0 +1,28 @@
+[
+    {
+        "ID":"shop1",
+        "nome":"Negozio di auto 1",
+        "indirizzo": "Viale libertà, 12",
+        "citta": "Palermo",
+        "provincia":"Palermo",
+        "coodinate":{
+            "lat": 38.125739,
+            "lon": 13.354726
+        },
+        "proprietario": "user3",
+        "auto": ["lambur1","lambper1"]
+    },
+    {
+        "ID":"shop2",
+        "nome":"Negozio di auto 2",
+        "indirizzo": "Via Casilina,57",
+        "citta": "Roma",
+        "provincia": "Palermo",
+        "coodinate":{
+            "lat": 41.888710,
+            "lon": 12.520890
+        },
+        "proprietario": "user4",
+        "auto": ["rollroycePhantom1"]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "ID":"prod001",
+        "codice":"lambur",
+        "brand":"Lamborghini",
+        "modello":"Urus",
+        "tipo":"Suv",
+        "descrizione":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "prezzo_h":80,
+        "prezzo_d":190,
+        "prezzo_m":290,
+        "immagini": [],
+        "info": {
+            "max":"305",
+            "cavalli": "650",
+            "accelerazione":3.6,
+            "motore":"V8 biturbo da 4L",
+            "alimentazione":"Benzina",
+            "cambio":"8 rapporti Automatico",
+            "cambioAutomatico":true,
+            "peso":"2200",
+            "posti":5,
+            "colore":"Bianco"
+        },
+        "commenti": ["post3","post14"]
+
+    },
+    {
+        "ID":"prod002",
+        "codice":"lambper",
+        "brand":"Lamborghini",
+        "modello":"Huracan performante spyder",
+        "tipo":"cabriolet",
+        "descrizione":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "prezzo_h":85,
+        "prezzo_d":220,
+        "prezzo_m":350,
+        "immagini": [],
+        "info": {
+            "max":"325",
+            "cavalli": "640",
+            "accelerazione":3.2,
+            "motore":"V6 da 4L",
+            "alimentazione":"Benzina",
+            "cambio":"6 rapporti Manuale",
+            "cambioAutomatico":false,
+            "peso":"1405",
+            "posti":2,
+            "colore":"Verde"
+        },
+        "commenti": ["post3","post14"]
+
+    },
+    {
+        "ID":"prod003",
+        "codice":"rollroycePhantom1",
+        "brand":"Roll Royce",
+        "modello":"Phantom",
+        "tipo":"cabriolet",
+        "descrizione":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "prezzo_h":90,
+        "prezzo_d":250,
+        "prezzo_m":400,
+        "immagini": [],
+        "info": {
+            "max":"250",
+            "cavalli": "563",
+            "accelerazione":5.6,
+            "motore":"V12 Biturbo",
+            "alimentazione":"Benzina",
+            "cambio":"8 rapporti Automatico",
+            "cambioAutomatico":true,
+            "peso":"2560",
+            "posti":5,
+            "colore":"Nero"
+        },
+        "commenti": ["post3","post14"]
+
+    },
+    {
+        "ID":"prod004",
+        "codice":"porschegt",
+        "brand":"Porsche",
+        "modello":"911 Coupe (991.2 Series) GT3 RS",
+        "tipo":"Coupe",
+        "descrizione":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "prezzo_h":132,
+        "prezzo_d":480,
+        "prezzo_m":1000,
+        "immagini": [],
+        "info": {
+            "max":"312",
+            "cavalli": "630",
+            "accelerazione":3.1,
+            "motore":"V10 da 5.2L",
+            "alimentazione":"Benzina",
+            "cambio":"7 rapporti Automatico",
+            "cambioAutomatico":true,
+            "peso":"1507",
+            "posti":2,
+            "colore":"Verde"
+        },
+        "commenti": ["post3","post14"]
+
+    },
+    {
+        "ID":"prod005",
+        "codice":"maserati",
+        "brand":"Maserati",
+        "modello":"Quattro Porte",
+        "tipo":"Berlina",
+        "descrizione":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "prezzo_h":152,
+        "prezzo_d":480,
+        "prezzo_m":930,
+        "immagini": [],
+        "info": {
+            "max":"307",
+            "cavalli": "580",
+            "accelerazione":4.7,
+            "motore":"V8 da 5.2L",
+            "alimentazione":"Benzina",
+            "cambio":"8 rapporti Automatico",
+            "cambioAutomatico":true,
+            "peso":"3171",
+            "posti":5,
+            "colore":"Nero"
+        },
+        "commenti": ["post3","post14"]
+
+    }
+]

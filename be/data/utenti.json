@@ -1,0 +1,44 @@
+[
+    {
+        "ID":"user1",
+        "tipo": {
+            "admin":  false,
+            "vendor": false,
+            "user":   true
+        },
+        "nome":"Mario",
+        "cognome":"Rossi",
+        "alias":"Roma",
+        "password":"pippo",
+        "email":"mario@rossi.it",
+        "thumbnail":"./assets/img/utenti/user1.png"
+    },
+    {
+        "ID":"user2",
+        "tipo": {
+            "admin":  true,
+            "vendor": false,
+            "user":   false
+        },
+        "nome":"Sergio Fausto",
+        "cognome":"Marino",
+        "alias":"sermarino",
+        "password":"pluto",
+        "email":"sergio@sergio.it",
+        "thumbnail":"./assets/img/utenti/user2Thumb.jpeg"
+    },
+    { 
+        "ID":"user3",
+        "tipo": {
+            "admin":  false,
+            "vendor": true,
+            "user":   false
+        },
+        "nome":"Gianni",
+        "cognome":"Agnelli",
+        "alias":"gianniagnelli",
+        "password":"auto",
+        "email":"gianni@agnelli.it",
+        "thumbnail":"./assets/img/utenti/user3Thumb.jpeg"
+    }
+]
